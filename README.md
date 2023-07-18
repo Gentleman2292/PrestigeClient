@@ -1,8 +1,9 @@
 <div align="center">
 
-# Prestige 0.1 (V.I.P Version)
+# Prestige 0.1 (V.I.P Version) (updated)
 
 <img src="https://i.imgur.com/fcsQ5OG.png" alt="logo" />
+<img src="https://i.imgur.com/oNkX1xh.png" alt="meme" width="50%"/>
 
 # [ info ]
 
@@ -23,4 +24,4 @@
 </div>
 
 + zPrestige - making this cheat
-+ Z_RUSSIA_V - cracking
++ Z_RUSSIA_V - cracking / making server emulator
